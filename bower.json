@@ -1,7 +1,8 @@
 {
   "name": "selectsave",
-  "description": "To select a value from dropdown and show it and will be able to remove it and can get the select value to save in db or do further processing",
-  "main": "",
+  "description": "To select value from dropdown & show it & get the select value for further processing",
+  "main": "selectsave.js",
+  "version": "v0.1.0",
   "keywords": [
     "Dropdown",
     "select"
