@@ -1,0 +1,25 @@
+{
+  "name": "selectsave",
+  "description": "To select a value from dropdown and show it and will be able to remove it and can get the select value to save in db or do further processing",
+  "main": "",
+  "keywords": [
+    "Dropdown",
+    "select"
+  ],
+  "authors": [
+    "Som"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/somsharan/selectsave.git"
+    },
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
