@@ -5,6 +5,17 @@ Select a value from dropdown and it shows up below the drop down as selected ite
 
 Below Example show's How to use the package
 
+##Installation
+
+<b>bower install selectsave</b>
+
+Command to save it in bower package.<br/>
+<b>Bower install selectsave --save</b>
+
+##Usage
+```html
+<script type="text/javascript" src="/javascripts/selectsave.js"></script>
+```
 ##Example
 ####HTML
 ```html
