@@ -10,7 +10,7 @@ Below Example show's How to use the package
 <b>bower install selectsave</b>
 
 Command to save it in bower package.<br/>
-<b>Bower install selectsave --save</b>
+<b>bower install selectsave --save</b>
 
 ##Usage
 ```html
